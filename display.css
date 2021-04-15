@@ -1,0 +1,35 @@
+h1{
+    color :aqua
+}
+
+.header{
+background-color: beige;
+display: flex;
+justify-content:space-around
+}
+
+body{
+    background-color: rgb(247, 247, 125);
+    border : solid;
+    border-color: yellowgreen;
+}
+
+.grid{
+
+display : flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+.footer{
+
+display: flex;
+justify-content: flex-end;
+}
+
+p,h2{
+
+text-align: center;
+
+}
